@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "Falla Cognitiva": "Post 1" },
+    { "id": 2, "Tutores Cognitivos": "Post 2" },
+    { "id": 3, "Inteligencia Artificial": "Post 3" },
+    { "id": 4, "Recuerdo Cognitivo": "Post 4" },
+    { "id": 5, "Espacios en la Memoria": "Post 5" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
