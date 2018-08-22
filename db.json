@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "Falla Cognitiva": "Post 1" },
-    { "id": 2, "Tutores Cognitivos": "Post 2" },
-    { "id": 3, "Inteligencia Artificial": "Post 3" },
-    { "id": 4, "Recuerdo Cognitivo": "Post 4" },
-    { "id": 5, "Espacios en la Memoria": "Post 5" }
+    { "id": 1, "Nombre": "Post 1" },
+    { "id": 2, "Tema": "Post 2" },
+    { "id": 3, "registro edi": "Post 3" },
+    { "id": 4, "Registro de": "Post 4" },
+    { "id": 5, "Hora": "Post 5" }
   ],
   "profile": {
     "name": "typicode"
